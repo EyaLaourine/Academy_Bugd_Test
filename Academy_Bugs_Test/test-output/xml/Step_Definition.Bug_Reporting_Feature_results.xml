@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Bug Reporting Feature "
+           tests="10"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4,685">
+    <properties></properties>
+
+
+
+            <testcase
+                name="drag_and_drop_les_etapes"
+                time="0,274"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="selectionner_issue_title_de_la_liste_deroulante"
+                time="0,111"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="selectionner_l_image"
+                time="0,037"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="utilisateur_soumet_le_rapport_de_bug"
+                time="0,052"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="selectionner_frequency_dans_le_groupe_de_boutons_radio"
+                time="0,042"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="selectionner_du_fichier_journal"
+                time="0,063"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="accepterPopUpCookies"
+                time="0,013"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="acceder_a_la_page_Report_Bugs"
+                time="4,029"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="selectionner_la_video"
+                time="0,048"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+            <testcase
+                name="un_message_derreur_est_affiché_indiquant_des_champs_obligatoires_non_remplis"
+                time="0,016"
+                classname="Step_Definition.Bug_Reporting_Feature">
+            </testcase>
+</testsuite>

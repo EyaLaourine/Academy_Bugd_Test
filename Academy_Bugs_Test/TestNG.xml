@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Academy_Bugs_Tests" parallel="true">
+<test name="Bug Reporting Feature ">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="environment" value="production"/>
+    <classes>
+        <class name="TestRunner">
+        </class>
+    </classes>
+</test>
+  <test name="Bug Reporting Feature - Firefox">
+       <parameter name="browser" value="firefox"/>
+      <parameter name="environment" value="production"/>
+        <classes>
+           <class name="TestRunner"/>
+       </classes>
+    </test>
+</suite>
